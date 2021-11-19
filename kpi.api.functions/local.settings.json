@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "EventsSecret": "",
+    "ApiBaseAddress": "http://localhost/sgi.api.producao2/api/",
+    "ApiUser": 0,
+    "ApiPassword": 0,
+    "AppClientId": "",
+    "AppClientSecret": ""
+  }
+}
